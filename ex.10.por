@@ -1,10 +1,16 @@
+// ==========================================================
+// CRIADO em 05.08.2020
+// ULTIMO UPDATE em 12.08.2020
+// ULTIMO UPDATE por Leo Thomas
+// ==========================================================
+
 programa
 {
 	funcao inicio()
 	{
-		// Faça um algoritmo que leia a largura e altura de uma parede, calcule e
-		// mostre a área a ser pintada e a quantidade de tinta necessária para o serviço,
-		// sabendo que cada litro de tinta pinta uma área de 2metros quadrados.
+		// FaÃ§a um algoritmo que leia a largura e altura de uma parede, calcule e
+		// mostre a Ã¡rea a ser pintada e a quantidade de tinta necessÃ¡ria para o serviÃ§o,
+		// sabendo que cada litro de tinta pinta uma Ã¡rea de 2metros quadrados.
 
 		real altura
 		real largura
@@ -24,8 +30,8 @@ programa
 }
 /* $$$ Portugol Studio $$$ 
  * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
+ * Esta seÃ§Ã£o do arquivo guarda informaÃ§Ãµes do Portugol Studio.
+ * VocÃª pode apagÃ¡-la se estiver utilizando outro editor.
  * 
  * @POSICAO-CURSOR = 581; 
  * @PONTOS-DE-PARADA = ;
