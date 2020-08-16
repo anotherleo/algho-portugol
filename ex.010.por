@@ -3,15 +3,15 @@
 // ULTIMO UPDATE em 12.08.2020
 // ULTIMO UPDATE por Leo Thomas
 // ==========================================================
+// 10) Faça um algoritmo que leia a largura e altura de uma parede, calcule e
+// mostre a área a ser pintada e a quantidade de tinta necessária para o serviço,
+// sabendo que cada litro de tinta pinta uma área de 2metros quadrados.
+// https://www.cursoemvideo.com/wp-content/uploads/2019/08/exercicios-algoritmos.pdf
 
 programa
 {
 	funcao inicio()
 	{
-		// Faça um algoritmo que leia a largura e altura de uma parede, calcule e
-		// mostre a área a ser pintada e a quantidade de tinta necessária para o serviço,
-		// sabendo que cada litro de tinta pinta uma área de 2metros quadrados.
-
 		real altura
 		real largura
 		
