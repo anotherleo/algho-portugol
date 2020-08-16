@@ -1,11 +1,23 @@
+  
+// ==========================================================
+// CRIADO em 11.08.2020
+// ULTIMO UPDATE em 16.08.2020
+// ULTIMO UPDATE por Leo Thomas
+// ==========================================================
+	// [DESAFIO] Escreva um programa para calcular a redu√ß√£o do tempo de vida de um
+	// fumante. Pergunte a quantidade de cigarros fumados por dias e quantos anos ele
+	// j√° fumou. Considere que um fumante perde 10 min de vida a cada cigarro. Calcule
+	// quantos dias de vida um fumante perder√° e exiba o total em dias.
+		// https://www.cursoemvideo.com/wp-content/uploads/2019/08/exercicios-algoritmos.pdf
+
 programa
 {
 	funcao inicio()
 	{
-		// [DESAFIO] Escreva um programa para calcular a reduÁ„o do tempo de vida de um
+		// [DESAFIO] Escreva um programa para calcular a redu√ß√£o do tempo de vida de um
 		// fumante. Pergunte a quantidade de cigarros fumados por dias e quantos anos ele
-		// j· fumou. Considere que um fumante perde 10 min de vida a cada cigarro. Calcule
-		// quantos dias de vida um fumante perder· e exiba o total em dias.
+		// j√° fumou. Considere que um fumante perde 10 min de vida a cada cigarro. Calcule
+		// quantos dias de vida um fumante perder√° e exiba o total em dias.
 
 		real calculoMinuto = 100 / 60
 		real calculoMinutosHora = 60 * calculoMinuto
@@ -35,8 +47,8 @@ programa
 }
 /* $$$ Portugol Studio $$$ 
  * 
- * Esta seÁ„o do arquivo guarda informaÁıes do Portugol Studio.
- * VocÍ pode apag·-la se estiver utilizando outro editor.
+ * Esta se√ß√£o do arquivo guarda informa√ß√µes do Portugol Studio.
+ * Voc√™ pode apag√°-la se estiver utilizando outro editor.
  * 
  * @POSICAO-CURSOR = 1049; 
  * @PONTOS-DE-PARADA = ;
