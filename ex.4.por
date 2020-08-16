@@ -1,10 +1,15 @@
+// ==========================================================
+// CRIADO em 10.08.2020
+// ULTIMO UPDATE em 16.08.2020
+// ULTIMO UPDATE por Leo Thomas
+// ==========================================================
+	// 4) Desenvolva um algoritmo que leia dois nÃºmeros inteiros e mostre o somatÃ³rio
+	// entre eles.
+ 		// https://www.cursoemvideo.com/wp-content/uploads/2019/08/exercicios-algoritmos.pdf
 programa
 {
 	funcao inicio()
 	{
-		//  Desenvolva um algoritmo que leia dois números inteiros e mostre o somatório entre eles.
-		// fonte: https://www.cursoemvideo.com/wp-content/uploads/2019/08/exercicios-algoritmos.pdf
-
 		inteiro a
 		inteiro b
 		inteiro resultado
@@ -23,8 +28,8 @@ programa
 }
 /* $$$ Portugol Studio $$$ 
  * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
+ * Esta seÃ§Ã£o do arquivo guarda informaÃ§Ãµes do Portugol Studio.
+ * VocÃª pode apagÃ¡-la se estiver utilizando outro editor.
  * 
  * @POSICAO-CURSOR = 438; 
  * @PONTOS-DE-PARADA = ;
