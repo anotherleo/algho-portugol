@@ -1,12 +1,18 @@
+// ==========================================================
+// CRIADO em 09.08.2020
+// ULTIMO UPDATE em 12.08.2020
+// ULTIMO UPDATE por Leo Thomas
+// ==========================================================
+	// Desenvolva uma lÃ³gica que leia os valores de A, B e C de uma equaÃ§Ã£o do
+	// segundo grau e mostre o valor de Delta.
+		// https://www.cursoemvideo.com/wp-content/uploads/2019/08/exercicios-algoritmos.pdf
+
 programa
 {
 	inclua biblioteca Matematica --> mat
 	
 	funcao inicio()
 	{
-		// Desenvolva uma lógica que leia os valores de A, B e C de uma equação do
-		// segundo grau e mostre o valor de Delta.
-
 		real a
 		real b
 		real c
@@ -26,8 +32,8 @@ programa
 }
 /* $$$ Portugol Studio $$$ 
  * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
+ * Esta seÃ§Ã£o do arquivo guarda informaÃ§Ãµes do Portugol Studio.
+ * VocÃª pode apagÃ¡-la se estiver utilizando outro editor.
  * 
  * @POSICAO-CURSOR = 487; 
  * @PONTOS-DE-PARADA = ;
